@@ -2,7 +2,7 @@
 
 #### basic test coverage for  [modify-babel-preset (v3.2.1)](https://github.com/developit/modify-babel-preset#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-modify-babel-preset.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-modify-babel-preset) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-modify-babel-preset.svg)](https://travis-ci.org/npmtest/node-npmtest-modify-babel-preset)
 
-#### Create a modified babel preset based on an an existing preset.
+#### Create a modified babel preset based on an existing preset.
 
 [![NPM](https://nodei.co/npm/modify-babel-preset.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/modify-babel-preset)
 
@@ -44,7 +44,7 @@
     "dependencies": {
         "require-relative": "^0.8.7"
     },
-    "description": "Create a modified babel preset based on an an existing preset.",
+    "description": "Create a modified babel preset based on an existing preset.",
     "devDependencies": {
         "babel-plugin-transform-react-jsx": "^6.8.0",
         "babel-preset-es2015": "^6.9.0",
